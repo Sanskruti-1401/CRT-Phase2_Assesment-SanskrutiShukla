@@ -1,0 +1,6 @@
+.mvnw.cmd/
+.idea/
+*.log
+*.class
+*.jar.original
+README.md
